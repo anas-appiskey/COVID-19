@@ -2,7 +2,7 @@
  
 This model is use to detect the COVID-19 from x-ray images. This is the implementation of pyimagesearch.com blog "Detecting COVID-19 in X-
 ray images with Keras, TensorFlow, and Deep Learning" on Google Colab. This is for only Learning purpose with more dataset of COVID-19 x-
-ray images of 60+. This model is not fully train , you are free to train it and can get more accuracy than 75.	 		
+ray images of 60+. This model is not 100% train , you are free to train it and can get more accuracy than 75.	 		
 
 # References
 
